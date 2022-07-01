@@ -1,5 +1,6 @@
 body {
     background-color: rgba(194, 222, 101, 0.63);
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -8,14 +9,6 @@ h1 {
     font-size: 50px;
     color: #430b6c ;
         
-}
-
-li {
-    font-family: 'Montserrat', sans-serif;
-}
-
-h3 {
-    font-family: 'Montserrat', sans-serif;
 }
 
 .title {
@@ -28,11 +21,10 @@ h3 {
     display: block;
     width: 400px;
     margin: 0 500px;
+    background-image: url('/img/cesar.jpg');
 }
  
-p {
-    font-family: 'Montserrat', sans-serif;
-}
+
 div {
     
 }
