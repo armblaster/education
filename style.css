@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(194, 222, 101, 0.63);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #430b6c ;
+        
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    font-size: 35px;
+    color: #18d6c0;
+}
+
+
+.card {
+    display: block;
+    width: 400px;
+    margin: 0 500px;
+}
+ 
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+div {
+    
+}
+
